@@ -1,3 +1,6 @@
+
+//a function that searches for an item in a sorted list.
+//To use it firstly you have to implement linkedlist.h and use given variable names in associated fields.
 node_t *search_sorted(node_t *headp, int item)
 {
 node_t *p;
